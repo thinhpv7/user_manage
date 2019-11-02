@@ -1,0 +1,40 @@
+[
+    {
+        "id" : 1,
+        "name" : "pacific rim",
+        "tel" : "0928384883",
+        "permission" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Chichi",
+        "tel" : "0102034345",
+        "permission" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "IronMan",
+        "tel" : "0203919293",
+        "permission" : 2
+    },
+    {
+        "id" : 4,
+        "name" : "Sasuke",
+        "tel" : "0893473819",
+        "permission" : 3
+    },
+    {
+        "id" : 5,
+        "name" : "shishita",
+        "tel" : "01203938494",
+        "permission" : 2
+    },
+    {
+        "id" : 6,
+        "name" : "Captain",
+        "tel" : "0984717278",
+        "permission" : 2
+    }
+    
+    
+]
